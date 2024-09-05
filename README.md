@@ -58,3 +58,5 @@ Both the dataset and a brief report detailing how we trained this model will be 
 ---
 
 Thanks to Jason Kuperberg and Josh Bickett from the [HyperWrite](https://hyperwriteai.com) team for reviewing drafts of the report we'll be releasing next week.
+
+Also, we know right now the model is split into a ton of files. We'll condense this soon to make the model easier to download and work with!
