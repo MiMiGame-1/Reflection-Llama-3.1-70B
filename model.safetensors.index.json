@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "total_size": 282214825984
+    "total_size": 282215219200
   },
   "weight_map": {
-    "lm_head.weight": "model-00161-of-00162.safetensors",
+    "lm_head.weight": "model-00162-of-00162.safetensors",
     "model.embed_tokens.weight": "model-00001-of-00162.safetensors",
     "model.layers.0.input_layernorm.weight": "model-00003-of-00162.safetensors",
     "model.layers.0.mlp.down_proj.weight": "model-00003-of-00162.safetensors",
@@ -698,11 +698,11 @@
     "model.layers.78.self_attn.o_proj.weight": "model-00158-of-00162.safetensors",
     "model.layers.78.self_attn.q_proj.weight": "model-00158-of-00162.safetensors",
     "model.layers.78.self_attn.v_proj.weight": "model-00158-of-00162.safetensors",
-    "model.layers.79.input_layernorm.weight": "model-00162-of-00162.safetensors",
-    "model.layers.79.mlp.down_proj.weight": "model-00162-of-00162.safetensors",
+    "model.layers.79.input_layernorm.weight": "model-00161-of-00162.safetensors",
+    "model.layers.79.mlp.down_proj.weight": "model-00161-of-00162.safetensors",
     "model.layers.79.mlp.gate_proj.weight": "model-00160-of-00162.safetensors",
-    "model.layers.79.mlp.up_proj.weight": "model-00162-of-00162.safetensors",
-    "model.layers.79.post_attention_layernorm.weight": "model-00162-of-00162.safetensors",
+    "model.layers.79.mlp.up_proj.weight": "model-00161-of-00162.safetensors",
+    "model.layers.79.post_attention_layernorm.weight": "model-00161-of-00162.safetensors",
     "model.layers.79.self_attn.k_proj.weight": "model-00160-of-00162.safetensors",
     "model.layers.79.self_attn.o_proj.weight": "model-00160-of-00162.safetensors",
     "model.layers.79.self_attn.q_proj.weight": "model-00160-of-00162.safetensors",
@@ -725,6 +725,6 @@
     "model.layers.9.self_attn.o_proj.weight": "model-00020-of-00162.safetensors",
     "model.layers.9.self_attn.q_proj.weight": "model-00020-of-00162.safetensors",
     "model.layers.9.self_attn.v_proj.weight": "model-00020-of-00162.safetensors",
-    "model.norm.weight": "model-00162-of-00162.safetensors"
+    "model.norm.weight": "model-00161-of-00162.safetensors"
   }
 }
