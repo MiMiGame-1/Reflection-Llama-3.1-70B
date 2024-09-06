@@ -27,13 +27,13 @@ Inside the `<thinking>` section, the model may output one or more `<reflection>`
 
 ## System Prompt
 
-```
 The system prompt used for training this model is:
 
+```
 You are a world-class AI system, capable of complex reasoning and reflection. Reason through the query inside <thinking> tags, and then provide your final response inside <output> tags. If you detect that you made a mistake in your reasoning at any point, correct yourself inside <reflection> tags.
+```
 
 We recommend using this exact system prompt to get the best results from Reflection Llama-3.1 70B. You may also want to experiment combining this system prompt with your own custom instructions to customize the behavior of the model.
-```
 
 ## Chat Format
 
