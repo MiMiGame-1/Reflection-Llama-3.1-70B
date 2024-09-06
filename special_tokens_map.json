@@ -1,47 +1,11 @@
 {
   "additional_special_tokens": [
-    {
-      "content": "<thinking>",
-      "lstrip": false,
-      "normalized": false,
-      "rstrip": false,
-      "single_word": false
-    },
-    {
-      "content": "</thinking>",
-      "lstrip": false,
-      "normalized": false,
-      "rstrip": false,
-      "single_word": false
-    },
-    {
-      "content": "<output>",
-      "lstrip": false,
-      "normalized": false,
-      "rstrip": false,
-      "single_word": false
-    },
-    {
-      "content": "</output>",
-      "lstrip": false,
-      "normalized": false,
-      "rstrip": false,
-      "single_word": false
-    },
-    {
-      "content": "<reflection>",
-      "lstrip": false,
-      "normalized": false,
-      "rstrip": false,
-      "single_word": false
-    },
-    {
-      "content": "</reflection>",
-      "lstrip": false,
-      "normalized": false,
-      "rstrip": false,
-      "single_word": false
-    }
+    "<thinking>",
+    "</thinking>",
+    "<output>",
+    "</output>",
+    "<reflection>",
+    "</reflection>"
   ],
   "bos_token": {
     "content": "<|begin_of_text|>",
@@ -57,5 +21,11 @@
     "rstrip": false,
     "single_word": false
   },
-  "pad_token": "<|eot_id|>"
+  "pad_token": {
+    "content": "<|eot_id|>",
+    "lstrip": false,
+    "normalized": false,
+    "rstrip": false,
+    "single_word": false
+  }
 }
