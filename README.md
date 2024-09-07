@@ -1,6 +1,6 @@
 ---
 license: llama3.1
-base_model: meta-llama/Meta-Llama-3.1-70B-Instruct
+base_model: meta-llama/Meta-Llama-3-70B-Instruct
 pipeline_tag: text-generation
 library_name: transformers
 ---
